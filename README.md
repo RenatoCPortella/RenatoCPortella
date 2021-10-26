@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 Atualmente sou Auxiliar de TI
+- 🔭 Auxiliar de TI
 - 🌱 Estudando HTML5, CSS3 e JavaScript
-- 📫 Contato: renatoportellacontato@gmail.com
+
 <div align="center">
   <a href="https://github.com/RenatoCPortella">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenatoCPortella&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCPortella&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCPortella&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
